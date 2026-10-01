@@ -36,7 +36,7 @@ Brazilian E-Commerce Public Dataset by Olist (Kaggle). I used the orders, custom
 
 ## Dashboard
 ![Dashboard](Dashboard.png)
-Live dashboard:https://public.tableau.com/app/profile/kavya.j8348/viz/OlistDeliveryDelayAnalysis/Dashboard1?publish=yes
+    Live dashboard:https://public.tableau.com/app/profile/kavya.j8348/viz/OlistDeliveryDelayAnalysis/Dashboard1?publish=yes
 
 ## Files
 - `OLIST ANALYSIS.ipynb`: full analysis in Python and SQL

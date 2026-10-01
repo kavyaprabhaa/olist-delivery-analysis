@@ -35,7 +35,6 @@ Brazilian E-Commerce Public Dataset by Olist (Kaggle). I used the orders, custom
 - The estimate of lost repeat revenue is small and rests on a simple assumption (late-order customers returning at the on-time rate).
 
 ## Dashboard
-!(dashboard.png)
 Live dashboard:https://public.tableau.com/app/profile/kavya.j8348/viz/OlistDeliveryDelayAnalysis/Dashboard1?publish=yes
 
 ## Files
